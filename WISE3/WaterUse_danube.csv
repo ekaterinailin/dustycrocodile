@@ -1,0 +1,211 @@
+,UID,versionId,beginLifeSpanVersion,spatialUnitIdentifier,spatialUnitIdentifierScheme,observedProperty,phenomenonTimePeriod,resultObservedVolume,resultObservationStatus,remarks,waterbaseObservationStatus,waterbaseRemarks
+2,3,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_DOM,2006,490.0,,,A,
+3,4,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_DOM,2012,465.0,,,A,
+4,5,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_A,2006,411.0,,,A,
+5,6,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_A,2012,199.0,,,A,
+6,7,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_A011_A013,2006,182.0,,,A,
+7,8,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_A011_A013,2012,139.0,,,A,
+8,9,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_B,2006,16.0,,,A,
+9,10,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_B,2012,11.0,,,A,
+10,11,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_C,2006,541.0,,,A,
+11,12,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_C,2012,663.0,,,A,
+12,13,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_C_CL,2012,0.0,,,A,
+13,14,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_D,2012,37.4,,,A,
+14,15,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_D_CL,2006,39.0,,,A,
+15,16,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_D_CL,2012,37.4,,,A,
+16,17,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_I,2006,391.0,,,A,
+17,18,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_NACE_I,2012,602.0,,,A,
+18,19,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_OTHER,2006,8.0,,,A,
+19,20,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,CH,countryCode,WU_OTHER,2012,5.34,,,A,
+676,708,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_DOM,2008,89.0,,,A,
+677,709,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_DOM,2009,85.0,,,A,
+678,710,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_DOM,2010,85.0,,,A,
+679,711,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_DOM,2011,83.4,,,A,
+680,712,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_DOM,2012,84.8,,,A,
+681,713,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A,2008,4.33,,,A,
+682,714,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A,2009,3.46,,,A,
+683,715,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A,2010,2.8,,,A,
+684,716,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A,2011,4.7,,,A,
+685,717,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A,2012,4.1,,,A,
+686,718,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A011_A013,2008,2.33,,,A,
+687,719,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A011_A013,2009,2.46,,,A,
+688,720,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A011_A013,2010,1.8,,,A,
+689,721,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A011_A013,2011,3.1,,,A,
+690,722,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_A011_A013,2012,2.2,,,A,
+691,723,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_B,2008,1.0,,,A,
+692,724,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_B,2009,1.0,,,A,
+693,725,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_B,2010,1.2,,,A,
+694,726,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_B,2011,0.84,,,A,
+695,727,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_B,2012,0.81,,,A,
+696,728,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_C,2008,154.0,,,A,
+697,729,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_C,2009,155.0,,,A,
+698,730,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_C,2010,52.5,,,A,
+699,731,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_C,2011,48.2,,,A,
+700,732,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_C,2012,198.2,,,A,
+701,733,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_D,2008,83872.0,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+702,734,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_D,2009,99783.0,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+703,735,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_D,2010,92780.0,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+704,736,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_D,2011,74607.0,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+705,737,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_NACE_D,2012,83255.0,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+706,738,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_OTHER,2008,29.1,,,A,
+707,739,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_OTHER,2009,11.0,,,A,
+708,740,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_OTHER,2010,10.0,,,A,
+709,741,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_OTHER,2011,10.5,,,A,
+710,742,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SI,countryCode,WU_OTHER,2012,17.4,,,A,
+711,743,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-01,4.239,,,A,
+712,744,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-02,3.988,,,A,
+713,745,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-03,4.195,,,A,
+714,746,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-04,3.872,,,A,
+715,747,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-05,3.9210000000000003,,,A,
+716,748,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-06,3.758,,,A,
+717,749,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-07,4.148,,,A,
+718,750,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-08,4.078,,,A,
+719,751,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-09,3.984,,,A,
+720,752,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-10,3.958,,,A,
+721,753,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-11,4.0569999999999995,,,A,
+722,754,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2010-12,3.9819999999999998,,,A,
+723,755,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-01,0.00430537,,,A,
+724,756,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-02,0.00374341,,,A,
+725,757,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-03,0.0041614090000000005,,,A,
+726,758,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-04,0.0039329890000000004,,,A,
+727,759,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-05,0.004181177,,,A,
+728,760,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-06,0.004041583,,,A,
+729,761,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-07,0.0038881329999999998,,,A,
+730,762,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-08,0.004242743,,,A,
+731,763,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-09,0.004142607,,,A,
+732,764,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-10,0.004036415,,,A,
+733,765,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-11,0.0039631779999999995,,,A,
+734,766,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_DOM,2011-12,0.00405344,,,A,
+735,767,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-01,7.505e-05,,,A,
+736,768,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-02,7.509999999999998e-05,,,A,
+737,769,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-03,7.615e-05,,,A,
+738,770,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-04,7.815e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+739,771,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-05,7.915e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+740,772,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-06,7.609999999999999e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+741,773,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-07,7.62e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+742,774,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-08,7.715e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+743,775,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-09,7.709999999999999e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+744,776,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-10,7.809999999999999e-05,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A)
+745,777,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-11,7.705e-05,,,A,
+746,778,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A,2011-12,7.605e-05,,,A,
+747,779,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-01,0.040999999999999995,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+748,780,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-02,0.040999999999999995,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+749,781,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-03,0.042,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+750,782,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-04,0.17,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+751,783,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-05,0.228,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+752,784,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-06,0.5529999999999999,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+753,785,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-07,3.245,,,U,U: Possible outlier - fails in the standard deviation limit test (OUTLIER_STDEV)
+754,786,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-08,1.071,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+755,787,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-09,0.332,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+756,788,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-10,0.05,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+757,789,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-11,0.046,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+758,790,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2010-12,0.045,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+759,791,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-01,4.13e-06,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+760,792,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-02,1.6219999999999999e-06,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+761,793,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-03,4.35e-06,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+762,794,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-04,0.000560425,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+763,795,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-05,0.002147766,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+764,796,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-06,0.0027241540000000003,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+765,797,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-07,0.001944244,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+766,798,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-08,0.001070693,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+767,799,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-09,0.001421186,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+768,800,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-10,0.000240518,,,U,U: The sum of the partial NACE category values exceeds the respective total NACE category value (WU_NACE_A); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+769,801,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-11,3.282e-06,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+770,802,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_A011_A013,2011-12,2.423e-06,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+771,803,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-01,26.506,,,A,
+772,804,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-02,20.993000000000002,,,A,
+773,805,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-03,24.982,,,A,
+774,806,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-04,27.049,,,A,
+775,807,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-05,25.015,,,A,
+776,808,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-06,25.781,,,A,
+777,809,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-07,25.357,,,A,
+778,810,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-08,26.662,,,A,
+779,811,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-09,26.04,,,A,
+780,812,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-10,26.03,,,A,
+781,813,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-11,25.624000000000002,,,A,
+782,814,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2010-12,27.66,,,A,
+783,815,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-01,0.026468524,,,A,
+784,816,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-02,0.019863108,,,A,
+785,817,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-03,0.023746687000000002,,,A,
+786,818,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-04,0.024478019,,,A,
+787,819,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-05,0.021922227000000002,,,A,
+788,820,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-06,0.024920646,,,A,
+789,821,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-07,0.026626094,,,A,
+790,822,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-08,0.026384912000000003,,,A,
+791,823,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-09,0.018506114,,,A,
+792,824,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-10,0.016208975,,,A,
+793,825,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-11,0.015305647,,,A,
+794,826,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C,2011-12,0.016257879,,,A,
+795,827,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-01,0.004685169,,,A,
+796,828,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-02,0.004247105,,,A,
+797,829,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-03,0.004313336,,,A,
+798,830,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-04,0.004592501,,,A,
+799,831,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-05,0.00531852,,,A,
+800,832,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-06,0.005948439,,,A,
+801,833,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-07,0.005797175,,,A,
+802,834,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-08,0.006639814,,,A,
+803,835,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-09,0.006271387,,,A,
+804,836,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-10,0.005162819,,,A,
+805,837,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-11,0.0043139879999999995,,,A,
+806,838,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_C_CL,2011-12,0.003611304,,,A,
+807,839,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-01,6.2589999999999995,,,A,
+808,840,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-02,5.8870000000000005,,,A,
+809,841,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-03,6.349,,,A,
+810,842,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-04,7.228,,,A,
+811,843,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-05,7.231,,,A,
+812,844,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-06,8.103,,,A,
+813,845,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-07,9.616,,,A,
+814,846,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-08,9.042,,,A,
+815,847,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-09,6.8260000000000005,,,A,
+816,848,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-10,6.32,,,A,
+817,849,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-11,6.228,,,A,
+818,850,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterUse/0.html,2015-11-30,SK,countryCode,WU_NACE_D_CL,2010-12,5.934,,,A,
+3856,3913,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2003,92.0,,,A,
+3857,3914,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2004,86.6,,,A,
+3858,3915,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2005,84.7,,,A,
+3859,3916,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2006,86.1,,,A,
+3860,3917,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2007,88.0,,,A,
+3861,3918,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2013,78.5,,,A,
+3862,3919,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_DOM,2014,78.6,,,A,
+3863,3920,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2003,8.4,,,A,
+3864,3921,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2004,6.9,,,A,
+3865,3922,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2005,4.3,,,A,
+3866,3923,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2006,8.5,,,A,
+3867,3924,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2007,6.7,,,A,
+3868,3925,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2013,5.3,,,A,
+3869,3926,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A,2014,4.7,,,A,
+3870,3927,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2003,6.4,,,A,
+3871,3928,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2004,4.5,,,A,
+3872,3929,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2005,2.3,,,A,
+3873,3930,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2006,6.3,,,A,
+3874,3931,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2007,4.4,,,A,
+3875,3932,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2013,3.5,,,A,
+3876,3933,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_A011_A013,2014,1.6,,,A,
+3877,3934,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2003,1.1,,,A,
+3878,3935,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2004,1.3,,,A,
+3879,3936,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2005,0.8,,,A,
+3880,3937,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2006,1.5,,,A,
+3881,3938,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2007,1.7,,,A,
+3882,3939,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2013,1.0,,,A,
+3883,3940,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_B,2014,1.1,,,A,
+3884,3941,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2003,80.6,,,A,
+3885,3942,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2004,76.5,,,A,
+3886,3943,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2005,76.5,,,A,
+3887,3944,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2006,70.9,,,A,
+3888,3945,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2007,59.3,,,A,
+3889,3946,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2013,53.8,,,A,
+3890,3947,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_C,2014,53.6,,,A,
+3891,3948,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2003,62783.2,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+3892,3949,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2004,72839.5,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+3893,3950,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2005,73816.2,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+3894,3951,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2006,77085.1,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+3895,3952,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2007,70220.7,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+3896,3953,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2013,99106.2,,,U,U: The timeseries contains possible outliers (OUTLIER_LIMIT)
+3897,3954,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_NACE_D,2014,124575.8,,,U,U: Possible outlier - fails in the value limit test (OUTLIER_LIMIT)
+3898,3955,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2003,28.3,,,A,
+3899,3956,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2004,28.2,,,A,
+3900,3957,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2005,27.8,,,A,
+3901,3958,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2006,27.5,,,A,
+3902,3959,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2007,27.2,,,A,
+3903,3960,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2013,16.5,,,A,
+3904,3961,http://cdr.eionet.europa.eu/si/eea/wise_soe/wise3/envv0rprq/WISE-SoE_WaterQuantity_WaterUse_WaterUse.xml,2016-05-25,SI,countryCode,WU_OTHER,2014,17.9,,,A,
