@@ -1,0 +1,507 @@
+,UID,versionId,beginLifeSpanVersion,spatialUnitIdentifier,spatialUnitIdentifierScheme,observedProperty,phenomenonTimePeriod,resultObservedVolume,resultObservationStatus,remarks,waterbaseObservationStatus,waterbaseRemarks
+800,811,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,AQUI,2011,18184.0,,,A,
+801,812,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1901,21835.1684882232,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+802,813,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1902,17375.4604943534,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+803,814,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1903,15871.90400344,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+804,815,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1904,19477.0782067879,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+805,816,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1905,20474.4422520634,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+806,817,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1906,10781.4303829141,,,U,U: Possible outlier - fails in the standard deviation limit test (OUTLIER_STDEV)
+807,818,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1907,17886.3418050397,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+808,819,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1908,20714.3297383863,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+809,820,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1909,16418.4646588906,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+810,821,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1910,17913.136637898402,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+811,822,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1911,14178.6658073307,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+812,823,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1912,17153.3622187758,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+813,824,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1913,14822.0772583502,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+814,825,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1914,19683.284507536202,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+815,826,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1915,18065.8239913975,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+816,827,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1916,14177.305531658201,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+817,828,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1917,17627.2201073728,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+818,829,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1918,20016.0937825464,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+819,830,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1919,14669.207713592801,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+820,831,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1920,20405.4799390373,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+821,832,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1921,14092.107191073,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+822,833,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1922,21634.1150040575,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+823,834,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1923,14987.9531148213,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+824,835,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1924,21115.5265968608,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+825,836,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1925,17504.0497775619,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+826,837,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1926,14184.8637422994,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+827,838,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1927,23501.085613605897,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+828,839,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1928,13528.118213886299,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+829,840,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1929,14126.7860290201,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+830,841,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1930,22587.0037708839,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+831,842,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1931,18406.038274145,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+832,843,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1932,16624.6072734752,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+833,844,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1933,18803.4936911739,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+834,845,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1934,17559.751992777,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+835,846,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1935,18553.5818764652,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+836,847,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1936,19844.2392578127,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+837,848,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1937,15865.243852307,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+838,849,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1938,17057.5177490862,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+839,850,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1939,17001.2046760014,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+840,851,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1940,19167.0662615673,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+841,852,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1941,14759.4326846582,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+842,853,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1942,18825.3542720693,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+843,854,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1943,17952.5052628123,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+844,855,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1944,15650.8095571321,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+845,856,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1945,19484.0289105507,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+846,857,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1946,19036.0860452743,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+847,858,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1947,16916.7008345373,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+848,859,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1948,22282.3970932275,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+849,860,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1949,15015.059956499099,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+850,861,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1950,24678.798829242798,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+851,862,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1951,21114.0895759569,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+852,863,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1952,19802.0684995148,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+853,864,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1953,17685.484877024,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+854,865,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1954,19886.4362119537,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+855,866,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1955,17439.6370903621,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+856,867,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1956,19633.0373472926,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+857,868,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1957,19142.3534929313,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+858,869,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1958,18539.6986139809,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+859,870,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1959,16037.1131031275,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+860,871,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1960,26430.9070096753,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+861,872,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1961,15496.862488479099,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+862,873,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1962,17789.6177855391,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+863,874,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1963,20976.5197708598,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+864,875,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1964,20051.6938447525,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+865,876,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1965,25250.9217476656,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+866,877,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1966,16754.9000936644,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+867,878,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1967,21046.470399473998,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+868,879,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1968,23239.2610289788,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+869,880,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1969,17266.528710793602,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+870,881,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1970,19267.909271817,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+871,882,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1971,21459.611638155802,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+872,883,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1972,18850.8393900146,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+873,884,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1973,20841.136234299298,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+874,885,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1974,21430.191928623797,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+875,886,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1975,20093.264421321102,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+876,887,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1976,19189.2507761006,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+877,888,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1977,21968.660493910702,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+878,889,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1978,19993.9775784737,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+879,890,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1979,20357.5902812996,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+880,891,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1980,18776.3815262527,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+881,892,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1981,22815.062041309902,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+882,893,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1982,20094.6449350486,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+883,894,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1983,20190.3009504741,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+884,895,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1984,21874.1732767611,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+885,896,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1985,18056.9738670457,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+886,897,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1986,20688.7182935973,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+887,898,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1987,21968.6528897369,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+888,899,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1988,19262.6837888422,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+889,900,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1989,19073.303506861,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+890,901,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1990,22421.289721484198,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+891,902,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1991,21476.0533564385,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+892,903,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1992,21061.4878814732,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+893,904,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1993,26531.3090913905,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+894,905,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1994,22652.214295668102,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+895,906,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1995,23900.051149221497,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+896,907,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1996,18439.823276113202,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+897,908,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1997,21895.822001765602,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+898,909,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1998,22881.247051861497,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+899,910,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,1999,24283.094398765,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+900,911,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2000,20748.040523457,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+901,912,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2001,25526.4078533094,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+902,913,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2002,20731.5693737843,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+903,914,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2003,18725.5570193286,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+904,915,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2004,21551.90315378,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+905,916,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2005,19593.7750743986,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+906,917,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2006,22324.543565042,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+907,918,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2007,24523.741520887,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+908,919,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2008,18728.9331591781,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+909,920,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2009,17733.9866305828,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+910,921,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2010,21690.4279390843,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+911,922,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2011,18708.9,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+912,923,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,EVAP_TSP,2012,22632.0,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+913,924,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1980,11828.4412163447,,,A,
+914,925,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1981,12051.9182746923,,,A,
+915,926,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1982,17034.565354608,,,A,
+916,927,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1983,15679.324860081799,,,A,
+917,928,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1984,12330.3380176913,,,A,
+918,929,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1985,13149.6340466909,,,A,
+919,930,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1986,12228.4186918873,,,A,
+920,931,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1987,14437.3534338665,,,A,
+921,932,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1988,15031.916411903501,,,A,
+922,933,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1989,10466.6759986555,,,A,
+923,934,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1990,10009.6768669462,,,A,
+924,935,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1991,9756.675205223759,,,A,
+925,936,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1992,11097.1267328401,,,A,
+926,937,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1993,12854.1790896314,,,A,
+927,938,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1994,14887.103379119199,,,A,
+928,939,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1995,16964.637328683002,,,A,
+929,940,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1996,10015.0840197462,,,A,
+930,941,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1997,12569.107819050801,,,A,
+931,942,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1998,9161.99551734547,,,A,
+932,943,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,1999,17210.1282669946,,,A,
+933,944,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2000,14064.469266888,,,A,
+934,945,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2001,15490.2963587306,,,A,
+935,946,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2002,11849.1024932907,,,A,
+936,947,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2003,12115.464043913898,,,A,
+937,948,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2004,9972.27592181604,,,A,
+938,949,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2005,10562.224158621999,,,A,
+939,950,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2006,12403.0308943191,,,A,
+940,951,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2007,12157.774724634599,,,A,
+941,952,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2008,11088.690909090901,,,A,
+942,953,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2009,9807.39090909091,,,A,
+943,954,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2010,10344.3909090909,,,A,
+944,955,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2011,8823.45851399999,,,A,
+945,956,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,INFL,2012,10513.0,,,A,
+946,957,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1980,60007.29981618,,,A,
+947,958,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1981,56709.262074101396,,,A,
+948,959,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1982,66642.4938684856,,,A,
+949,960,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1983,61826.801615484,,,A,
+950,961,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1984,49403.5295872294,,,A,
+951,962,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1985,53157.4634148138,,,A,
+952,963,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1986,53591.5404627041,,,A,
+953,964,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1987,59724.4577971967,,,A,
+954,965,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1988,58144.1941469967,,,A,
+955,966,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1989,46686.879932035095,,,A,
+956,967,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1990,43112.3382345711,,,A,
+957,968,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1991,46716.480899142996,,,A,
+958,969,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1992,47268.7688012675,,,A,
+959,970,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1993,53027.5754216768,,,A,
+960,971,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1994,63476.405242009,,,A,
+961,972,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1995,63385.9493540737,,,A,
+962,973,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1996,41415.0922263366,,,A,
+963,974,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1997,51360.133340303495,,,A,
+964,975,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1998,43369.0377875333,,,A,
+965,976,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,1999,68266.0224475372,,,A,
+966,977,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2000,56276.3473520583,,,A,
+967,978,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2001,68012.20261711121,,,A,
+968,979,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2002,51194.2836249106,,,A,
+969,980,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2003,51273.7972889216,,,A,
+970,981,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2004,45861.7447666193,,,A,
+971,982,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2005,45143.5622620793,,,A,
+972,983,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2006,47902.5627351113,,,A,
+973,984,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2007,51869.1078446908,,,A,
+974,985,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2008,51818.0,,,A,
+975,986,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2009,48926.0,,,A,
+976,987,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2010,48637.0,,,A,
+977,988,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2011,41409.158513999995,,,A,
+978,989,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,OUTFL,2012,50822.0,,,A,
+979,990,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1901,60370.166320052005,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+980,991,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1902,57693.7451891222,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+981,992,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1903,52829.309069793395,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+982,993,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1904,57775.2679134141,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+983,994,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1905,58948.4138082603,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+984,995,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1906,47348.5464106667,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+985,996,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1907,53227.5329257399,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+986,997,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1908,58956.5419156908,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+987,998,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1909,47085.6207186985,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+988,999,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1910,68890.0242761749,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+989,1000,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1911,50940.6112982504,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+990,1001,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1912,61642.3247947437,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+991,1002,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1913,55219.767647801906,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+992,1003,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1914,68681.9763330713,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+993,1004,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1915,61024.378061828895,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+994,1005,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1916,61833.5828792658,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+995,1006,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1917,63108.7252059662,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+996,1007,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1918,58556.5428954404,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+997,1008,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1919,58112.777210221204,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+998,1009,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1920,66257.48800857691,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+999,1010,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1921,36136.3157978665,,,U,U: Possible outlier - fails in the standard deviation limit test (OUTLIER_STDEV)
+1000,1011,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1922,65704.0438734504,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1001,1012,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1923,53977.2835288046,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1002,1013,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1924,70715.1606591166,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1003,1014,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1925,49752.9545843704,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1004,1015,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1926,58307.9367162665,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1005,1016,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1927,73782.50886704901,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1006,1017,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1928,49914.336500437596,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1007,1018,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1929,52214.2144196012,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1008,1019,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1930,64640.5751151964,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1009,1020,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1931,70779.9775769963,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1010,1021,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1932,52967.5048447526,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1011,1022,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1933,52473.4011033524,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1012,1023,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1934,51010.059403101906,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1013,1024,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1935,59807.5578718459,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1014,1025,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1936,75303.78615159269,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1015,1026,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1937,61892.630841486505,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1016,1027,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1938,53848.7655731466,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1017,1028,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1939,60847.176827072195,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1018,1029,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1940,71642.8151205405,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1019,1030,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1941,57053.026884913605,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1020,1031,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1942,50948.763920896905,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1021,1032,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1943,48324.5978484877,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1022,1033,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1944,46101.431542469196,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1023,1034,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1945,64375.5463679098,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1024,1035,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1946,60610.248646165,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1025,1036,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1947,44476.3660264422,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1026,1037,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1948,64118.0744359659,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1027,1038,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1949,38193.903708158905,,,U,U: Possible outlier - fails in the standard deviation limit test (OUTLIER_STDEV)
+1028,1039,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1950,54997.9084448649,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1029,1040,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1951,69913.6120312017,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1030,1041,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1952,57292.962995273796,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1031,1042,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1953,61564.844454467195,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1032,1043,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1954,57688.0467147094,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1033,1044,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1955,63884.4479293325,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1034,1045,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1956,59186.8785678867,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1035,1046,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1957,56130.2833465875,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1036,1047,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1958,57873.6076381338,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1037,1048,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1959,49902.7486831442,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1038,1049,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1960,67208.64271768549,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1039,1050,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1961,57354.6429905041,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1040,1051,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1962,52526.14651323231,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1041,1052,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1963,57897.4807652488,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1042,1053,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1964,49292.23838493889,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1043,1054,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1965,69502.1973530627,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1044,1055,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1966,64376.124683221904,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1045,1056,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1967,63801.7200137396,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1046,1057,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1968,66866.2874229594,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1047,1058,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1969,55480.1174004246,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1048,1059,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1970,64654.178852885496,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1049,1060,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1971,51115.433311696295,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1050,1061,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1972,45998.6530059461,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1051,1062,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1973,54720.208981305,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1052,1063,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1974,55147.6450086549,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1053,1064,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1975,67112.1258017472,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1054,1065,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1976,45087.233670983,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1055,1066,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1977,73831.0267423441,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1056,1067,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1978,68144.9523552969,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1057,1068,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1979,57694.6815975032,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1058,1069,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1980,67600.85071741379,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1059,1070,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1981,67713.35999904611,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1060,1071,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1982,69197.02525711889,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1061,1072,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1983,65144.8546985585,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1062,1073,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1984,59072.4156007683,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1063,1074,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1985,57766.7854235771,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1064,1075,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1986,61273.526863442996,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1065,1076,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1987,66839.1567732821,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1066,1077,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1988,61890.453323471396,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1067,1078,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1989,54656.837687353,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1068,1079,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1990,54703.638800273606,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1069,1080,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1991,57145.3845481832,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1070,1081,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1992,56229.176952583606,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1071,1082,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1993,66373.0159923486,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1072,1083,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1994,69777.4099508675,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1073,1084,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1995,70090.71657648419,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1074,1085,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1996,49066.1383277488,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1075,1086,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1997,59882.76404113889,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1076,1087,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1998,55482.8317377343,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1077,1088,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,1999,75193.49683929389,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1078,1089,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2000,62203.20011701441,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1079,1090,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2001,78097.26096845709,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1080,1091,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2002,59470.9227298872,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1081,1092,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2003,55224.422584283304,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1082,1093,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2004,56977.133805133395,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1083,1094,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2005,53152.41623112361,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1084,1095,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2006,56696.339851129596,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1085,1096,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2007,63723.432587977404,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1086,1097,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008,58563.4,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL); U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1087,1098,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-01,3792.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1088,1099,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-02,3593.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1089,1100,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-03,4051.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1090,1101,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-04,4608.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1091,1102,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-05,5558.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1092,1103,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-06,6217.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1093,1104,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-07,6205.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1094,1105,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-08,6490.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1095,1106,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-09,5235.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1096,1107,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-10,4740.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1097,1108,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-11,4664.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1098,1109,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2008-12,4221.0,,,U,U: The sum of monthly values exceeds the annual value (SUM_ANNUAL)
+1099,1110,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2009,55424.6,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1100,1111,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2010,59182.9,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1101,1112,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2011,49766.5,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+1102,1113,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,CH,countryCode,PRECIP,2012,61785.0,,,U,U: The timeseries contains possible outliers (OUTLIER_STDEV)
+3059,3079,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,RS,countryCode,EVAP_TSP,2004,48769.0,,,A,
+3060,3080,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,RS,countryCode,PRECIP,2004,60740.0,,,A,
+4702,4722,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2009,22311.296000000002,,,A,
+4703,4723,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010,26592.717,,,A,
+4704,4724,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-01,51.07,,,A,
+4705,4725,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-02,268.009,,,A,
+4706,4726,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-03,1494.026,,,A,
+4707,4727,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-04,2953.725,,,A,
+4708,4728,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-05,3393.8759999999997,,,A,
+4709,4729,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-06,5226.653,,,A,
+4710,4730,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-07,5242.588,,,A,
+4711,4731,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-08,3754.9759999999997,,,A,
+4712,4732,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-09,2147.49,,,A,
+4713,4733,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-10,1394.205,,,A,
+4714,4734,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-11,652.7280000000001,,,A,
+4715,4735,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2010-12,13.370999999999999,,,A,
+4716,4736,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011,24060.75,,,A,
+4717,4737,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-01,38.73,,,A,
+4718,4738,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-02,366.7199,,,A,
+4719,4739,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-03,1911.764,,,A,
+4720,4740,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-04,3266.178,,,A,
+4721,4741,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-05,4035.966,,,A,
+4722,4742,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-06,3666.29,,,A,
+4723,4743,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-07,3960.81,,,A,
+4724,4744,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-08,3928.966,,,A,
+4725,4745,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-09,1831.535,,,A,
+4726,4746,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-10,727.222,,,A,
+4727,4747,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-11,216.896,,,A,
+4728,4748,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2011-12,109.67200000000001,,,A,
+4729,4749,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012,20982.051,,,A,
+4730,4750,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-01,122.449,,,A,
+4731,4751,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-02,157.408,,,A,
+4732,4752,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-03,1425.6270000000002,,,A,
+4733,4753,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-04,2254.933,,,A,
+4734,4754,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-05,3293.433,,,A,
+4735,4755,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-06,3263.013,,,A,
+4736,4756,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-07,4178.587,,,A,
+4737,4757,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-08,3295.009,,,A,
+4738,4758,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-09,1455.845,,,A,
+4739,4759,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-10,910.1239999999999,,,A,
+4740,4760,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-11,572.245,,,A,
+4741,4761,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,EVAP_TSP,2012-12,53.378,,,A,
+4742,4762,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009,71509.12047000001,,,A,
+4743,4763,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-01,3087.9594850000003,,,A,
+4744,4764,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-02,3143.5245,,,A,
+4745,4765,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-03,8283.208674,,,A,
+4746,4766,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-04,8988.292383,,,A,
+4747,4767,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-05,7553.607808,,,A,
+4748,4768,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-06,8931.02175,,,A,
+4749,4769,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-07,9140.021032999999,,,A,
+4750,4770,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-08,5666.637834,,,A,
+4751,4771,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-09,4353.714475,,,A,
+4752,4772,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-10,4028.0502770000003,,,A,
+4753,4773,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-11,4017.202516,,,A,
+4754,4774,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2009-12,4315.879739999999,,,A,
+4755,4775,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010,71105.431,,,A,
+4756,4776,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-01,4014.083,,,A,
+4757,4777,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-02,3522.723,,,A,
+4758,4778,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-03,5939.710999999999,,,A,
+4759,4779,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-04,4950.662,,,A,
+4760,4780,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-05,7220.146,,,A,
+4761,4781,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-06,10959.364,,,A,
+4762,4782,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-07,6646.135,,,A,
+4763,4783,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-08,7882.9490000000005,,,A,
+4764,4784,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-09,6347.803000000001,,,A,
+4765,4785,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-10,3992.623,,,A,
+4766,4786,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-11,3897.796,,,A,
+4767,4787,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2010-12,5731.436,,,A,
+4768,4788,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011,55558.928,,,A,
+4769,4789,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-01,7727.187,,,A,
+4770,4790,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-02,4230.894,,,A,
+4771,4791,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-03,4222.478,,,A,
+4772,4792,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-04,3983.505,,,A,
+4773,4793,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-05,3902.2140000000004,,,A,
+4774,4794,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-06,4873.979,,,A,
+4775,4795,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-07,5872.302,,,A,
+4776,4796,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-08,5580.143,,,A,
+4777,4797,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-09,3885.125,,,A,
+4778,4798,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-10,4841.282,,,A,
+4779,4799,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-11,2589.708,,,A,
+4780,4800,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2011-12,3850.11,,,A,
+4781,4801,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012,68875.19900000001,,,A,
+4782,4802,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-01,7124.025,,,A,
+4783,4803,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-02,4005.9429999999998,,,A,
+4784,4804,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-03,6853.259,,,A,
+4785,4805,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-04,5930.98,,,A,
+4786,4806,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-05,6516.078,,,A,
+4787,4807,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-06,8437.537,,,A,
+4788,4808,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-07,6119.815,,,A,
+4789,4809,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-08,4495.2029999999995,,,A,
+4790,4810,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-09,5185.102,,,A,
+4791,4811,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-10,4493.406,,,A,
+4792,4812,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-11,4192.752,,,A,
+4793,4813,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,INFL,2012-12,5521.098000000001,,,A,
+4794,4814,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009,86280.89557000001,,,A,
+4795,4815,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-01,4344.6290340000005,,,A,
+4796,4816,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-02,4652.666843,,,A,
+4797,4817,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-03,10535.291290000001,,,A,
+4798,4818,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-04,11233.66635,,,A,
+4799,4819,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-05,8403.662744,,,A,
+4800,4820,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-06,9110.68522,,,A,
+4801,4821,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-07,10710.926940000001,,,A,
+4802,4822,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-08,6302.0203409999995,,,A,
+4803,4823,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-09,4987.635491,,,A,
+4804,4824,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-10,4818.084128,,,A,
+4805,4825,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-11,5255.762343,,,A,
+4806,4826,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2009-12,5925.864845,,,A,
+4807,4827,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010,99702.19099999999,,,A,
+4808,4828,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-01,6084.303000000001,,,A,
+4809,4829,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-02,4779.637,,,A,
+4810,4830,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-03,7891.729,,,A,
+4811,4831,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-04,7030.026999999999,,,A,
+4812,4832,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-05,11077.457,,,A,
+4813,4833,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-06,15740.065,,,A,
+4814,4834,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-07,7982.621999999999,,,A,
+4815,4835,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-08,9822.011,,,A,
+4816,4836,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-09,8946.103000000001,,,A,
+4817,4837,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-10,5792.153,,,A,
+4818,4838,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-11,5763.035,,,A,
+4819,4839,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2010-12,8793.049,,,A,
+4820,4840,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011,67611.475,,,A,
+4821,4841,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-01,9883.678,,,A,
+4822,4842,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-02,5503.374,,,A,
+4823,4843,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-03,5802.944,,,A,
+4824,4844,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-04,5114.917,,,A,
+4825,4845,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-05,4666.248,,,A,
+4826,4846,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-06,5668.045,,,A,
+4827,4847,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-07,7280.664000000001,,,A,
+4828,4848,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-08,6664.045,,,A,
+4829,4849,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-09,4360.414000000001,,,A,
+4830,4850,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-10,5298.16,,,A,
+4831,4851,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-11,3078.546,,,A,
+4832,4852,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2011-12,4290.44,,,A,
+4833,4853,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012,76893.994,,,A,
+4834,4854,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-01,7548.555,,,A,
+4835,4855,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-02,4672.276,,,A,
+4836,4856,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-03,8111.183000000001,,,A,
+4837,4857,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-04,6998.715,,,A,
+4838,4858,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-05,7245.35,,,A,
+4839,4859,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-06,9006.282,,,A,
+4840,4860,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-07,6747.4890000000005,,,A,
+4841,4861,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-08,4932.291,,,A,
+4842,4862,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-09,5441.6669999999995,,,A,
+4843,4863,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-10,5063.322,,,A,
+4844,4864,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-11,5146.154,,,A,
+4845,4865,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,OUTFL,2012-12,5980.709,,,A,
+4846,4866,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009,41710.5848,,,A,
+4847,4867,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-01,2521.7063,,,A,
+4848,4868,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-02,3202.1966,,,A,
+4849,4869,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-03,4286.2579,,,A,
+4850,4870,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-04,792.1745,,,A,
+4851,4871,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-05,3063.6275,,,A,
+4852,4872,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-06,5565.2616,,,A,
+4853,4873,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-07,3540.5112,,,A,
+4854,4874,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-08,3681.1578,,,A,
+4855,4875,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-09,1950.2782,,,A,
+4856,4876,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-10,4739.0487,,,A,
+4857,4877,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-11,3938.8221,,,A,
+4858,4878,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2009-12,4429.5424,,,A,
+4859,4879,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010,59103.49,,,A,
+4860,4880,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-01,3126.821,,,A,
+4861,4881,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-02,2504.552,,,A,
+4862,4882,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-03,1488.951,,,A,
+4863,4883,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-04,3924.5570000000002,,,A,
+4864,4884,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-05,10924.431,,,A,
+4865,4885,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-06,6842.3009999999995,,,A,
+4866,4886,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-07,7206.022,,,A,
+4867,4887,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-08,7007.935,,,A,
+4868,4888,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-09,6183.181,,,A,
+4869,4889,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-10,1393.579,,,A,
+4870,4890,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-11,4995.509,,,A,
+4871,4891,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2010-12,3505.651,,,A,
+4872,4892,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011,31790.5906,,,A,
+4873,4893,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-01,1505.0122310000002,,,A,
+4874,4894,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-02,760.4925232999999,,,A,
+4875,4895,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-03,2215.7160289999997,,,A,
+4876,4896,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-04,1722.2643899999998,,,A,
+4877,4897,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-05,3316.9705519999998,,,A,
+4878,4898,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-06,6085.955529,,,A,
+4879,4899,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-07,7940.977637000001,,,A,
+4880,4900,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-08,2166.341128,,,A,
+4881,4901,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-09,889.1337979,,,A,
+4882,4902,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-10,2078.571707,,,A,
+4883,4903,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-11,29.28021533,,,A,
+4884,4904,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2011-12,3079.873863,,,A,
+4885,4905,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012,34848.56,,,A,
+4886,4906,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-01,3606.448,,,A,
+4887,4907,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-02,2050.701,,,A,
+4888,4908,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-03,649.523,,,A,
+4889,4909,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-04,2093.38,,,A,
+4890,4910,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-05,2058.702,,,A,
+4891,4911,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-06,4960.899,,,A,
+4892,4912,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-07,6367.295,,,A,
+4893,4913,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-08,1082.29,,,A,
+4894,4914,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-09,2297.12,,,A,
+4895,4915,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-10,5023.289000000001,,,A,
+4896,4916,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-11,2329.337,,,A,
+4897,4917,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_RenewableFreshwaterResources/0.html,2015-11-30,SK,countryCode,PRECIP,2012-12,2329.576,,,A,
+5611,5659,http://cdr.eionet.europa.eu/bg/eea/wise_soe/wise3/envvta_na/WISE-SoE_WaterQuantity_BG_SW_RenewableFreshwaterResources.xml,2016-02-29,BG,countryCode,PRECIP,2013,70865.0,A,,A,
+5612,5660,http://cdr.eionet.europa.eu/bg/eea/wise_soe/wise3/envvta_na/WISE-SoE_WaterQuantity_BG_SW_RenewableFreshwaterResources.xml,2016-02-29,BG,countryCode,EVAP_TSP,2013,54681.0,A,,A,
+5613,5661,http://cdr.eionet.europa.eu/bg/eea/wise_soe/wise3/envvta_na/WISE-SoE_WaterQuantity_BG_SW_RenewableFreshwaterResources.xml,2016-02-29,BG,countryCode,INFL,2013,93475.0,A,,A,
+5614,5662,http://cdr.eionet.europa.eu/bg/eea/wise_soe/wise3/envvta_na/WISE-SoE_WaterQuantity_BG_SW_RenewableFreshwaterResources.xml,2016-02-29,BG,countryCode,OUTFL,2013,116060.0,A,,A,
+5615,5663,http://cdr.eionet.europa.eu/bg/eea/wise_soe/wise3/envvta_na/WISE-SoE_WaterQuantity_BG_SW_RenewableFreshwaterResources.xml,2016-02-29,BG,countryCode,AQUI,2013,5408.0,A,,A,

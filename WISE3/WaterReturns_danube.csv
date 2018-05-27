@@ -1,0 +1,3 @@
+,UID,versionId,beginLifeSpanVersion,spatialUnitIdentifier,spatialUnitIdentifierScheme,observedProperty,phenomenonTimePeriod,resultObservedVolume,resultObservationStatus,remarks,waterbaseObservationStatus,waterbaseRemarks
+9,10,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterReturns/0.html,2015-11-30,CH,countryCode,NON_TREATED_EFFL,2008,42900.0,,,A,
+10,11,http://discomap.eea.europa.eu/data/wisesoe/deriveddata/T_WISE3_WaterReturns/0.html,2015-11-30,CH,countryCode,TREATED_EFFL,2008,1982.0,,,A,
